@@ -146,4 +146,4 @@ function submitQuiz() {
     resultBox.scrollIntoView({ behavior: 'smooth' });
 }
 
-window.onload = loadQuiz;
+window.onload = loadQuiz; 

@@ -2,64 +2,64 @@
 // correctAnswer: 0 (matlab pehla option), 1 (dusra), 2 (teesra), 3 (chautha)
 const quizData = [
     {
-        question: "Bermuda map me sabse zyada loot kaha milti hai?",
-        options: ["Clock Tower", "Bimasakti Strip", "Pochinok", "Factory"],
-        correctAnswer: 0 
+        question: "FreeFire Ka Pehla Map Konsa Hai?",
+        options: ["Bermuda", "Purgatory", "Kalahari", "No-Name Map"],
+        correctAnswer: 1
     },
     {
-        question: "Inme se konsi gun close range me sabse best hai?",
-        options: ["MP40", "AWM", "M14", "SKS"],
-        correctAnswer: 0 
+        question: "Freefire mein Ab tak kitne update aa chuke hai?",
+        options: ["52", "53", "54", "55"],
+        correctAnswer: 1
     },
     {
-        question: "Alok character ki ability ka naam kya hai?",
-        options: ["Time Turner", "Drop the Beat", "Riptide Rhythm", "Master of All"],
+        question: "Aisi Shotgun Jiske Andar In-built Scope Hai?",
+        options: ["M500", "SPAS", "Charge-Buster", "M1014"],
+        correctAnswer: 1
+    },
+    {
+        question: "Freefire Mein Jo OB Updates Aate hai (jaise ob42) to usme OB Ka full form kya hota hai?",
+        options: ["open Beta", "Online Battle", "On Board", "Official Beta"],
+        correctAnswer: 0
+    },
+    {
+        question: "Freefire ka pehla pet konsa hai?",
+        options: ["Robo", "Kitty", "Nighpanther", "Falcon"],
         correctAnswer: 1 
     },
     {
-        question: "FreeFire Max me maximum kitne players ek room me khel sakte hai (Classic)?",
-        options: ["40", "50", "60", "100"],
+        question: "Freefire ka pehla official torunament kab hua?",
+        options: ["2018", "2019", "2021", "2022"],
         correctAnswer: 1 
     },
     {
-        question: "K character ki ability konsi hai?",
-        options: ["Master of All", "Drop the Beat", "Camouflage", "Hacker's Eye"],
-        correctAnswer: 0 
-    },
-    {
-        question: "AWM ka pura naam kya hai?",
-        options: ["Arctic Warfare Magnum", "Auto Weapon Machine", "Assault Warfare Magnum", "Arctic Weapon Maker"],
-        correctAnswer: 0 
-    },
-    {
-        question: "Peak location kis map me hai?",
-        options: ["Purgatory", "Kalahari", "Bermuda", "Alpine"],
+        question: "FreeFire India Mein Ban Kab Hua?",
+        options: ["14 Feb 2021", "5 march 2021", "14 feb 2022", "5 march 2022"],
         correctAnswer: 2 
     },
     {
-        question: "Konsa pet Gloo Wall banata hai?",
-        options: ["Detective Panda", "Mr. Waggor", "Falco", "Beaston"],
+        question: "FreeFire ki Pehli 7 level upgrade hone wali EVO GUN konsi thi?",
+        options: ["Cobra MP40", "Megalodan Scar", "BlueFlame Draco", "Booyah day UMP"],
+        correctAnswer: 2
+    },
+    {
+        question: "FreeFire ka Pehla Collab kiske sath hua?",
+        options: ["Money Heist", "Ksmir", "One Punch Man", "Dj Alok"],
+        correctAnswer: 3 
+    },
+    {
+        question: "Freefire ka pehla awakened character konsa tha?",
+        options: ["Hayato", "kelly", "Andrew", "Alwaro"],
         correctAnswer: 1 
     },
     {
-        question: "FreeFire ka pehla Elite Pass konsa tha?",
-        options: ["Hip Hop Festival", "Kitsune", "Sakura Festival", "Steampunk"],
-        correctAnswer: 2 
+        question: "Aisi Gun Jo SMG Ammo use karti hai aur Short Range and As a sniper bhi kaam karti hai?",
+        options: ["CG15", "Gatling", "Crossbow", "VSS"],
+        correctAnswer: 0
     },
     {
-        question: "Red damage number ka matlab kya hota hai?",
-        options: ["Body Shot", "Headshot", "Armor Hit", "Missed Shot"],
-        correctAnswer: 1 
-    },
-    {
-        question: "Groza gun kis ammo ka use karti hai?",
-        options: ["SMG Ammo", "AR Ammo", "Shotgun Ammo", "Sniper Ammo"],
-        correctAnswer: 1 
-    },
-    {
-        question: "CS (Clash Squad) mode me kitne rounds jeetne par match khatam hota hai?",
-        options: ["3 Rounds", "4 Rounds", "5 Rounds", "7 Rounds"],
-        correctAnswer: 1 
+        question: "FreeFire ke Pehle Inida Offical Tournament ka naam kya tha?",
+        options: ["FFIC", "FFPL", "FFITL", "FFMIC"],
+        correctAnswer: 2
     }
 ];
 
